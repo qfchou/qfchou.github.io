@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://github.com/qfchou
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Qifeng Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "The University of Texas at Arlington"
+  bio              : "The University of Texas at Arlington"
+  location         : "Arlington, TX"
+  employer         : #"The University of Texas at Arlington"
   uri              : # URL
   email            : "qxz8706@mavs.uta.edu" 
 

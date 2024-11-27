@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Qifeng Zhou"
 excerpt: "Learn more about Qifeng Zhou"
 author_profile: true
 redirect_from: 

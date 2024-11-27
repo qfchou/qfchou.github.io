@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 I am a **third-year Ph.D. student** in the [Department of Computer Science and Engineering](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/), supervised by [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/).  
 Before that, I obtained a Bachelor of Applied Bioscience from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/) at [Zhejiang University](https://www.zju.edu.cn/english/).
 

@@ -22,7 +22,7 @@ My research interests lie broadly in the following areas:
 
 ## News
 
-- 2023.09: One paper is accepted by **ACM BCB 2024**! 🎉  
+- 2024.09: One paper is accepted by **ACM BCB 2024**! 🎉  
 - 2024.05: One paper is accepted by **MICCAI 2024 (early accepted)**! 🎉  
 
 ---

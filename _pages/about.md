@@ -14,7 +14,9 @@ Before that, I obtained a Bachelor of Applied Bioscience from [Chu Kochen Honors
 My research interests lie broadly in the following areas:  
 - **Multi-modal Learning**, e.g., Multi-modal LLM, Multi-modal Representation Learning, Multi-modal Fusion  
 - **Multi-instance Learning**  
-- Their applications in **computational pathology**  
+- Their applications in **computational pathology**
+
+You can find my CV here: [Qifeng Zhou's CV](../assets/Qifeng_Zhou.pdf)
 
 🚀 I am actively looking for **Summer 2025 internship** and academic collaboration opportunities. Feel free to reach out via email!
 

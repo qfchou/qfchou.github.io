@@ -12,7 +12,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Qifeng Zhou"
 description              : &description "personal description"
-url                      : https://qfchou.github.io # the base hostname & protocol for your site e.g. "https://github.com/qfchou"
+url                      : https://qfchou.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qfchou/qfchou.github.io"
 
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Qifeng Zhou (周琦丰)"
-  pronouns         : # example: "she/her"  
+  pronouns         :  
   bio              : "The University of Texas at Arlington
                       Email: qxz8706@mavs.uta.edu"
   location         : "Arlington, TX"
-  employer         : #"The University of Texas at Arlington"
-  uri              : # URL
+  employer         : 
+  uri              : 
   email            : "qxz8706@mavs.uta.edu" 
 
   # Academic websites

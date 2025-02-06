@@ -23,7 +23,7 @@ You can find my CV here: [Qifeng Zhou's CV](../assets/Qifeng_Zhou.pdf)
 ---
 
 ## News
-
+- 2025.01: One paper is accepted by **ISBI 2025**! 🎉  
 - 2024.09: One paper is accepted by **ACM BCB 2024**! 🎉  
 - 2024.05: One paper is accepted by **MICCAI 2024 (early accepted)**! 🎉  
 
@@ -31,11 +31,15 @@ You can find my CV here: [Qifeng Zhou's CV](../assets/Qifeng_Zhou.pdf)
 
 ## Publications
 
-1. **Qifeng Zhou**, Wenliang Zhong, Yuzhi Guo, Michael Xiao, Hehuan Ma, and Junzhou Huang,  
+1. **Qifeng Zhou**, Thao M Dang, Yuzhi Guo, Hehuan Ma, Wenliang Zhong, Saiyang Na, Jean Gao and Junzhou Huang,
+   *"Contrastive Pretraining for Computational Pathology With Visual Language Models"*,
+   **ISBI 2025**. 
+
+2. **Qifeng Zhou**, Wenliang Zhong, Yuzhi Guo, Michael Xiao, Hehuan Ma, and Junzhou Huang,  
    *"PathM3: A Multimodal Multi-Task Multiple Instance Learning Framework for Whole Slide Image Classification and Captioning"*,  
    **MICCAI 2024**.  
 
-2. Thao M. Dang, Yuzhi Guo, Hehuan Ma, **Qifeng Zhou**, Saiyang Na, Jean Gao, and Junzhou Huang,  
+3. Thao M. Dang, Yuzhi Guo, Hehuan Ma, **Qifeng Zhou**, Saiyang Na, Jean Gao, and Junzhou Huang,  
    *"MFMF: Multiple Foundation Model Fusion Networks for Whole Slide Image Classification"*,  
    **ACM BCB 2024**.  
 

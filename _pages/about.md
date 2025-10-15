@@ -51,6 +51,16 @@ You can find my CV here: [Qifeng Zhou's CV](../assets/Qifeng_Zhou.pdf)
 
 ---
 
+## Experience
+- **Digital Pathology Intern** @ **Genmab**
+  *Princeton, NJ, USA*
+  *Jun. 2025 - Aug. 2025*
+  - Engineered an end-to-end multi-modal deep learning framework using **cross-attention** to fuse Whole Slide Images (WSI), omics, and clinical data for patient survival analysis in oncology.
+  - Developed a novel deep learning pipeline for non-invasive prediction of **Folate Receptor Alpha (FRα)** expression from H&E pathology images, creating a scalable method for computational biomarker discovery.
+  - Managed model development and large-scale data processing in a GPU-enabled cloud environment (AWS, Databricks) utilizing Python and PyTorch.
+
+---
+
 ## Education
 
 - 2022.09 – Present: Ph.D. Student, The University of Texas at Arlington, Arlington, TX, USA  

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **third-year Ph.D. student** in the [Department of Computer Science and Engineering](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/), supervised by [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/).  
+I am a **third-year Ph.D. candidate** in the [Department of Computer Science and Engineering](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse) at [The University of Texas at Arlington](https://www.uta.edu/), supervised by [Prof. Junzhou Huang](https://ranger.uta.edu/~huang/).  
 Before that, I obtained a Bachelor of Applied Bioscience from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/) at [Zhejiang University](https://www.zju.edu.cn/english/).
 
 My research interests lie broadly in the following areas:  
@@ -18,11 +18,13 @@ My research interests lie broadly in the following areas:
 
 You can find my CV here: [Qifeng Zhou's CV](../assets/Qifeng_Zhou.pdf)
 
-🚀 I am actively looking for **Summer 2025 internship** and academic collaboration opportunities. Feel free to reach out via email!
+🚀 I am actively looking for **Summer 2026 internship** and academic collaboration opportunities. Feel free to reach out via email!
 
 ---
 
 ## News
+- 2025.06: Two papers are accepted by **MICCAI 2025**! 🎉 
+- 2025.06: Start Research Intern in **Genmab**! 🎉 
 - 2025.01: One paper is accepted by **ISBI 2025**! 🎉  
 - 2024.09: One paper is accepted by **ACM BCB 2024**! 🎉  
 - 2024.05: One paper is accepted by **MICCAI 2024 (early accepted)**! 🎉  

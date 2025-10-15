@@ -31,7 +31,7 @@ You can find my CV here: [Qifeng Zhou's CV](../assets/Qifeng_Zhou.pdf)
 
 ---
 
-## Publications
+## Selected Publications
 
 1. **Qifeng Zhou**, Thao M Dang, Yuzhi Guo, Hehuan Ma, Wenliang Zhong, Saiyang Na, Jean Gao and Junzhou Huang,
    *"Contrastive Pretraining for Computational Pathology With Visual Language Models"*,
@@ -39,9 +39,13 @@ You can find my CV here: [Qifeng Zhou's CV](../assets/Qifeng_Zhou.pdf)
 
 2. **Qifeng Zhou**, Wenliang Zhong, Yuzhi Guo, Michael Xiao, Hehuan Ma, and Junzhou Huang,  
    *"PathM3: A Multimodal Multi-Task Multiple Instance Learning Framework for Whole Slide Image Classification and Captioning"*,  
-   **MICCAI 2024**.  
+   **MICCAI 2024**.
+   
+4. Thao Dang, Haiqing Li, Yuzhi Guo, Hehuan Ma, Feng Jiang, Yuwei Miao, **Qifeng Zhou**, Jean Gao, and Junzhou Huang,
+   *"HAGE: Hierarchical Alignment Gene-Enhanced Pathology Representation Learning with Spatial Transcriptomics"*,
+   **MICCAI 2025**.
 
-3. Thao M. Dang, Yuzhi Guo, Hehuan Ma, **Qifeng Zhou**, Saiyang Na, Jean Gao, and Junzhou Huang,  
+6. Thao M. Dang, Yuzhi Guo, Hehuan Ma, **Qifeng Zhou**, Saiyang Na, Jean Gao, and Junzhou Huang,  
    *"MFMF: Multiple Foundation Model Fusion Networks for Whole Slide Image Classification"*,  
    **ACM BCB 2024**.  
 
